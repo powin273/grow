@@ -1,8 +1,4 @@
- --[[
-@author depso (depthso)
-@description Grow a Garden auto-farm script
-https://www.roblox.com/games/126884695634066
-]]
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/GrowaGarden", true))()
 
 --// Services
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
